@@ -1,2 +1,2 @@
 # To-Do-List
- Html,Css ve JavaScript kullanarak yapılacaklar listesi hazirlandi . 
+To-do list was prepared using Html, CSS and JavaScript.
